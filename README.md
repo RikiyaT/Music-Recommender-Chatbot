@@ -37,7 +37,3 @@ You can test the chatbot in the Dialogflow simulator or integrate it into your d
 - [Dialogflow](https://cloud.google.com/dialogflow) - Natural Language Processing platform
 - [AWS Lambda](https://aws.amazon.com/lambda) - Serverless compute service
 - [Spotify API](https://developer.spotify.com/documentation/web-api) - Music data API
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
