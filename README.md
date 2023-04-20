@@ -17,7 +17,7 @@ To get a local copy up and running, follow these steps:
 ### Installation
 
 1. Clone the repository:
-git clone https://github.com/RikiyaT/Music-Conversational-Recommender-System.git
+git clone https://github.com/RikiyaT/Music-Recommender-Chatbot.git
 
 
 2. Set up a Dialogflow agent, intents, and entities as described in the project documentation.
