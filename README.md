@@ -4,16 +4,6 @@ This chatbot utilizes Dialogflow, AWS Lambda, and the Spotify API to identify th
 
 ![img](./path/to/screenshot.png)
 
-## Table of Contents
-
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Built With](#built-with)
-- [License](#license)
-- [Contact](#contact)
-
 ## Getting Started
 
 To get a local copy up and running, follow these steps:
