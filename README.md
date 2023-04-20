@@ -2,7 +2,7 @@
 
 This chatbot utilizes Dialogflow, AWS Lambda, and the Spotify API to identify the most famous song by a given artist. Users can ask the chatbot about the most famous song by an artist, and the chatbot will provide the appropriate response using the Spotify API to fetch the top track for the specified artist.
 
-![\](./path/to/screenshot.png)
+![img](./path/to/screenshot.png)
 
 ## Table of Contents
 
